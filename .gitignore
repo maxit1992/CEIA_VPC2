@@ -129,5 +129,6 @@ dmypy.json
 .pyre/
 
 # Specific 
-
+TP_Final/severstal-steel-defect-detection/
+TP_Final/deprecated/
 
